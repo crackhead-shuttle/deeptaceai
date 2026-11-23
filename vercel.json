@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/chat", "destination": "https://YOUR-VERCEL-PROJECT.vercel.app/api/chat" }
+  ]
+}
